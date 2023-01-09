@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Poop.
+          こんにちは! My name is Aidan Kiser. I am a Computer Science Student at Auburn University.<br></br>
+          This is my personal website that I will continuously be iterating on when I feel like it.<br></br>
+          Feel free to stop by and check in on my progress every once in a while!
         </p>
         <a
           className="App-link"
