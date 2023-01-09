@@ -11,6 +11,7 @@ function App() {
           This is my personal website that I will continuously be iterating on when I feel like it.<br></br>
           Feel free to stop by and check in on my progress every once in a while!
         </p>
+        {/* 
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -18,7 +19,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> 
+          */}
       </header>
     </div>
   );
